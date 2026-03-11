@@ -152,13 +152,3 @@ Wire
 
 No external ADXL345 library is required because the sensor is read directly via I²C registers.
 
-Typical Use Cases
-Camera vibration monitoring
-
-LTS vibration testing
-
-Mechanical vibration diagnostics
-
-Rig instrumentation
-
-Sensor prototyping
